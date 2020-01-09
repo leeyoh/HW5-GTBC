@@ -2,7 +2,7 @@
 
 https://leeyoh.github.io/HW5-GTBC/
 
-![Home Page](./Assets/Images/workday.PNG?raw=true)
+![Home Page](/Assets/Images/workday?raw=true)
 
 # Unit 05 Third-Party APIs Homework: Day Planner
 
@@ -21,7 +21,5 @@ Clicking on the save button will store the time and user input in `localStorage`
 Near the top of the calendar, the application should display the current day. Additionally, each hour should be color coded to reflect whether the time slot is in the past, the present, or the future. This will change depending on the time of day.
 
 You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
-
-![day planner demo](./Assets/05-Third-Party-APIs-homework-demo.gif)
 
 
